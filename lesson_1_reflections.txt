@@ -1,0 +1,24 @@
+
+Question:
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+			
+			This command: diff -u filename1 filename2
+				helped me see that there was a typo in a specific line, which was the thing that was creating a problem in the game.
+
+
+Question:
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+			
+			It will save time when trying to figure out glitches in the code, or when going back to older versions, etc...
+
+
+Question:
+How might using version control make you more confident to make changes that could break something?
+		
+			I will perform changes with udacity, not having to worry that I mess something up, and I would be confident to do it also because I can easily compare files.
+
+
+Question:
+Now that you have your workspace set up, what do you want to try using Git for?
+
+			Wow, this actually means so much to me... Using the terminal, comparing files, being able to communicate to the machine with comfort. I feel that this is a true revolution in my abilities as a programmer.
