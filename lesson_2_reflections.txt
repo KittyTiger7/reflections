@@ -14,3 +14,23 @@ Question:
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 			It'll help when working on different pieces of the code.
+
+
+Question:
+How do the diagrams help you visualize the branch structure?
+	
+			They are a must! Without them, it would be way more difficult to understand what's going on in a complicated tree.
+			With that, it is important to note that new commits that branch out from an existing branch are not logged when you hit git log since there's no reference to them in any place. To see them, you need to checkout the branch that they're on.
+
+
+Question:
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+			The result of the branch merged into the one checked is that they become one commit & HEAD, hence if you hit git log you see all commits of both branches logged simultaniously, and sorted by time stamp. 
+			We represent this in a tree diagram to have a visual representation of this thing.
+
+
+
+
+
+
