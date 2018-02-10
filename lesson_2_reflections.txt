@@ -30,6 +30,14 @@ What is the result of merging two branches together? Why do we represent it in t
 			We represent this in a tree diagram to have a visual representation of this thing.
 
 
+Question:
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+			Cons - slow and tedious.
+			Pros - very controllable.
+
+
+
 
 
 
